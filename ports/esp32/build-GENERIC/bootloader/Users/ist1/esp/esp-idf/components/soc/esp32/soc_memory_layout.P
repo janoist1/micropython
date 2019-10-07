@@ -1,0 +1,3 @@
+build-GENERIC/bootloader//Users/ist1/esp/esp-idf/components/soc/esp32/soc_memory_layout.o: \
+ /Users/ist1/esp/esp-idf/components/soc/esp32/soc_memory_layout.c
+ /Users/ist1/esp/esp-idf/components/soc/esp32/soc_memory_layout.c :
